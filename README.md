@@ -10,7 +10,7 @@ Then [a tweet of pari](https://twitter.com/parithosh_j/status/147188817336623514
 # What
 
 This faucet uses hCaptcha instead of reCaptcha to not feed the google.
-You can deeplink to a cain with the url parameter `chain` that contains a chain-id.
+You can deeplink to a chain with the url parameter `chain` that contains a chain-id.
 And you can pass an address with the url parameter `address` that will then be pre-filled.
 
 # Run
@@ -31,7 +31,7 @@ you can also build the tar via:
 
 ## from source
 
-or directly run tha app from within the repo via:
+or directly run the app from within the repo via:
 
 `./gradlew run`
 
